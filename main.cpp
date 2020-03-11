@@ -6,12 +6,15 @@ using std::endl;
 
 int main()
 {
-    cout<<"Hi, please enter two numbers: ";
+  int deadnum = 0; //deadcode
+  string neverused; //deadcode
 
-    int x,y;
+  cout<<"Hi, please enter two numbers: ";
 
-    cin >> x >> y;
-    cout << x + y << endl;
+  int x,y;
 
-    return 0;
+  cin >> x >> y;
+  cout << x + y << endl;
+
+  return 0;
 }
