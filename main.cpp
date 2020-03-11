@@ -7,7 +7,7 @@ using std::endl;
 int main()
 {
   int deadnum = 0; //deadcode
-  string neverused; //deadcode
+  std::string neverused; //deadcode
 
   cout<<"Hi, please enter two numbers: ";
 
